@@ -1,0 +1,44 @@
+{
+    "users": [
+        {   
+            "id": 1,
+            "name": "Dzakki",
+            "jabatan": "instruktur"
+        },
+        {   
+            "id": 2,
+            "name": "Luqman",
+            "jabatan": "murid"
+        },
+        {   
+            "id": 3,
+            "name": "Nadia",
+            "jabatan": "instruktur"
+        },
+        {   
+            "id": 4,
+            "name": "Fiqi",
+            "jabatan": "instruktur"
+        },
+        {   
+            "id": 5,
+            "name": "Stefanus",
+            "jabatan": "murid"
+        },
+        {   
+            "id": 6,
+            "name": "Herianto",
+            "jabatan": "murid"
+        },
+        {   
+            "id": 7,
+            "name": "Seven",
+            "jabatan": "instruktur"
+        },
+        {   
+            "id": 8,
+            "name": "Wiby",
+            "jabatan": "murid"
+        }
+    ] 
+  }
